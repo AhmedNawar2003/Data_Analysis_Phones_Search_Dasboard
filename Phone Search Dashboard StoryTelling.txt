@@ -1,0 +1,38 @@
+:
+
+🚀 Excited to share my Power BI Final Project – Phones Search Dashboard!
+
+What started as a messy dataset of phone products turned into a clean, structured, and insightful dashboard that highlights key business metrics.
+
+🔍 Data Cleaning & Preparation
+Using Power Query, I:
+✔ Fixed data types & handled nulls
+✔ Standardized product details
+✔ Prepared clean tables for modeling
+
+⚡ Data Modeling & DAX
+Built calculated columns & measures to answer important questions:
+
+AVG Product Price: $180.36
+
+AVG Star Rating: 4.07⭐
+
+Total Sales: 111K
+
+Climate-Friendly Products: 19% 🌱
+
+Amazon Choice Products: 2
+
+📊 Interactive Dashboard Highlights
+
+Bar charts for total sales & offers by product
+
+Pie charts for Prime eligibility, Best Sellers, and Amazon Choice
+
+Line chart to track sales trend by date
+
+KPIs cards for quick insights
+
+💡 From data cleaning to visualization, this project shows how raw data can be transformed into actionable insights that help businesses identify best sellers, pricing trends, and eco-friendly opportunities.
+
+✨ This was a great journey to practice Power Query, Data Modeling, and DAX in Power BI — turning numbers into a story that drives decisions
